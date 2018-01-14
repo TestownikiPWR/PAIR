@@ -1,0 +1,5 @@
+X0010
+52. Proste zadanie kinematyki polega na:
+a. Wyznaczeniu trajektorii wspó³rzêdnych wewnêtrznych robota znaj¹c wspó³rzêdne trajektorii chwytaka
+b. Wyznaczeniu wektora trajektorii wspó³rzêdnych wewnêtrznych robota znaj¹c wspó³rzêdne trajektorii chwytaka
+c. Wyznaczeniu trajektorii chwytaka znaj¹c wewnêtrzne wspó³rzêdne trajektorii robota

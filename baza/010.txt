@@ -1,0 +1,5 @@
+X0010
+10. W uk³adzie regulacji sygna³ b³êdu:
+a. mo¿e wynosiæ zero
+b. zawsze wynosi zero
+c. nigdy nie wynosi zero

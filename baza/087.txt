@@ -1,0 +1,6 @@
+X1000
+87. Jeœli robot posiada 2 przeguby 4 klasy i 2 przeguby 5 klasy to jego ruchliwoœæ wynosi:
+a. 6 // 6*(2+2) - (2*4 + 2*5) = 24 - 18 = 6
+b. 5
+c. 8
+d. 4

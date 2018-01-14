@@ -1,0 +1,6 @@
+X0001
+70. Stacjonarny system dynamiczny:
+a. Spe³nia zasadê superpozycji
+b. Jest stabilny
+c. Posiada ujemne sprzê¿enie zwrotne
+d. Mo¿e byæ opisywany równaniem ró¿niczkowym 

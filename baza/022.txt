@@ -1,0 +1,6 @@
+X0001
+22. Które z poni¿szych zdañ jest prawdziwe:
+a. du¿¹ wartoœæ ca³kowego kryterium regulacji powoduje du¿e przeregulowanie
+b. du¿a wartoœæ przeregulowania powoduje du¿¹ wartoœæ uchybu w stanie ustalonym
+c. krótki czas regulacji powoduje ma³e przeregulowanie
+d. du¿a wartoœæ uchybu w stanie ustalonym powoduje du¿¹ wartoœæ ca³kowego kryterium regulacji

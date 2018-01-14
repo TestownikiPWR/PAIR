@@ -1,0 +1,5 @@
+X0100
+9. Podstawow¹ struktur¹ w regulacji automatycznej jest:
+a. dodatnie sprzê¿enie zwrotne
+b. ujemne sprzê¿enie zwrotne
+c. struktura równoleg³a

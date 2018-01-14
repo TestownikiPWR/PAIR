@@ -1,0 +1,5 @@
+X1000
+58. Robot typu sferyczny to robot o konfiguracji odcinka regionalnego:
+a. OOP
+b. OOO
+c. OPO

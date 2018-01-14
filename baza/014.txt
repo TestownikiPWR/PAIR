@@ -1,0 +1,3 @@
+X1000
+14. W uk³adzie regulacji automatycznej wejœciem regulatora jest.
+a. sygna³ uchybu (e(f) – sygna³ uchybu sterowania/regulacji)

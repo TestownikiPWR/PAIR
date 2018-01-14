@@ -1,0 +1,5 @@
+X0100
+8. Wczesne sterowniki PLC nie realizowa³y:
+a. Zale¿noœci czasowych
+b. Przetwarzania sygna³ów analogowych
+c. Przetwarzania sygna³ów cyfrowych

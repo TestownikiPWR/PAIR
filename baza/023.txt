@@ -1,0 +1,3 @@
+X1000
+23. W URA dla uk³adu z obiektem stabilnym wzrost wzmocnienia powoduje:
+a. polepszenie dok³adnoœci i pogorszenie zapasu stabilnoœci //Uchyb ustalony jest odwrotnie proporcjonalny do wspó³czynnika wzmocnienia. Im lepsza (tj. wiêksza) dok³adnoœæ tym mniejszy uchyb ustalony. Wzrost wzmocnienia powoduje zmniejszenie uchybuwiêc im wiêksze wzmocnienie tym wiêksza dok³adnoœæ.

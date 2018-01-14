@@ -1,0 +1,5 @@
+X1000
+93. Jeœli robot posiada 3 przeguby 4 klasy i 4 przeguby 5 klasy to jego liczba stopni swobody wynosi
+a. 10
+b. 6
+c. 8

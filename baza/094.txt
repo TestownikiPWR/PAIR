@@ -1,0 +1,6 @@
+X1000
+94. Ile stopni swobody ma robot o 1 przegubie klasy 3 i 3 przegubach klasy 5?
+a. szeœæ
+b. siedem
+c. piêæ
+d. osiem

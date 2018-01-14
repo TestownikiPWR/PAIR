@@ -1,0 +1,382 @@
+1. Resolwer to urz¹dzenie s³u¿¹ce do:
+a. Dekodowania informacji zapisanej w postaci magnetycznej
+b. Pomiaru przyspieszenia robota
+c. Uzyskania informacji na temat prêdkoœci i kierunku obrotu ko³a
+d. Uzyskania informacji o po³o¿eniu k¹towym osi przegubu
+2. Enkoder magnetyczny to urz¹dzenie s³u¿¹ce do:
+a. Dekodowania informacji zapisanej w postaci magnetycznej
+b. Pomiaru przyspieszenia robota
+c. Uzyskiwania informacji na temat prêdkoœci i kierunku obrotu ko³a
+d. Chwytania elementów (mocuje siê je na koñcu efektora manipulatora)
+3. Odometria to:
+a. Przyrz¹d do pomiaru odleg³oœci przebytej przez robota
+b. Metoda okreœlania po³o¿enia robota mobilnego w przestrzeni bazuj¹ca na enkoderach w ko³ach
+c. Czujnik zapachowy
+d. Nauka o ró¿nicach w budowie robotów ze wzglêdu na œrodowisko dzia³ania urz¹dzenia
+4. Czym mierzymy temperaturê?
+a. termoskopem
+b. termoelementem
+c. termotronem
+5. Który z poni¿szych protoko³ów nie jest protoko³em przemys³owym?
+a. Net bus
+b. UDP
+c. Profibus
+6. Jaki jêzyk jest najczêœciej stosowany w programowaniu PLC?
+a. drabinkowy LD 
+7. Jak wykonywane s¹ instrukcje w sterowniku PLC?
+a. krokowo
+b. cyklicznie >10min
+c. cyklicznie <100ms
+8. Wczesne sterowniki PLC nie realizowa³y:
+a. Zale¿noœci czasowych
+b. Przetwarzania sygna³ów analogowych
+c. Przetwarzania sygna³ów cyfrowych
+9. Podstawow¹ struktur¹ w regulacji automatycznej jest:
+a. dodatnie sprzê¿enie zwrotne
+b. ujemne sprzê¿enie zwrotne
+c. struktura równoleg³a
+10. W uk³adzie regulacji sygna³ b³êdu:
+a. mo¿e wynosiæ zero
+b. zawsze wynosi zero
+c. nigdy nie wynosi zero
+11. Uchyb jest
+a. Wyjœciem ca³ego uk³adu
+b. Wejœciem ca³ego uk³adu
+c. Wejœciem uk³adu steruj¹cego
+12. Wzór na sygna³ wyjœciowy (w uk³adzie zamkniêtym) regulatora: //uk³ad zamkniêty, czyli ze sprzê¿eniem zwrotnym
+a. e=y_zadane-y
+b. e=u-y
+c. e=u+y
+d. e=calka(u+y)dt
+13. Uchyb regulacji to:
+a. ró¿nica pomiêdzy wejœciem obiektu a wartoœci¹ zadan¹
+b. ró¿nica pomiêdzy wejœciem a wyjœciem obiektu
+c. ró¿nica pomiêdzy wartoœci¹ zadan¹ a wyjœciem obiektu
+d. ró¿nica pomiêdzy wyjœciem obiektu a jego wartoœci¹ w chwili koñcowej
+14. W uk³adzie regulacji automatycznej wejœciem regulatora jest.
+a. sygna³ uchybu (e(f) – sygna³ uchybu sterowania/regulacji)
+15. W uk³adzie automatycznej regulacji wejœciem obiektu jest:
+a. wyjœcie regulatora
+b. uchyb regulacji
+c. wartoœæ zadana jego wyjœcia
+16. Uchyb ustalony w uk³adzie nie okreœla jego:
+a. zapasu stabilnoœci
+b. zachowania siê w czasie regulacji //uchyb ustalony wystêpuje po up³yniêciu czasu regulacji (Ÿród³o: Horla
+17. Uk³ad regulacji z otwart¹ pêtl¹ sprzê¿enia zwrotnego to uk³ad w którym: .
+a. obiekt regulacji jest pod³¹czony na wejœciu regulatora
+b. sygna³ zadany jest wejœciem regulatora //regulator nie ma informacji o wyjœciu uk³adu (y)
+c. uchyb regulacji jest wejœciem regulatora
+18. Uchyb nad¹¿ania URA (uk³ad regulacji automatycznej), w przypadku regulacji sta³owartoœciowej, mo¿nasprowadziæ dok³adnie do zera przez:
+a. wprowadzenie cz³onu ca³kuj¹cego 
+b. zwiêkszenie wzmocnienia 
+19. Metoda doboru nastaw regulatorów to:
+a. metoda Taylora
+b. metoda Nyquista
+c. metoda Zieglera-Nicholsa
+20. Kryterium stabilnoœci Nyquista opiera siê na analizie:
+a. charakterystyki amplitudowo - fazowej uk³adu otwartego.
+21. Które z poni¿szych zdañ jest prawdziwe:
+a. du¿a wartoœæ uchybu w stanie ustalonym powoduje du¿¹ wartoœæ ca³kowego kryterium regulacji//ca³kowe kryterium regulacji opiera siê na uchybie (regulacji) – dotyczy ka¿dego momentu dzia³ania uk³adu, nie tylko pocz¹tkowego (jak w przypadku przeregulowania) (Ÿród³o: Horla – „Podstawy Automatyki” s.49)
+b. du¿¹ wartoœæ ca³kowego kryterium regulacji powoduje du¿e przeregulowanie
+c. krótki czas regulacji powoduje ma³e przeregulowanie
+d. du¿a wartoœæ przeregulowania powoduje du¿¹ wartoœæ uchybu w stanie ustalonym
+22. Które z poni¿szych zdañ jest prawdziwe:
+a. du¿¹ wartoœæ ca³kowego kryterium regulacji powoduje du¿e przeregulowanie
+b. du¿a wartoœæ przeregulowania powoduje du¿¹ wartoœæ uchybu w stanie ustalonym
+c. krótki czas regulacji powoduje ma³e przeregulowanie
+d. du¿a wartoœæ uchybu w stanie ustalonym powoduje du¿¹ wartoœæ ca³kowego kryterium regulacji
+23. W URA, dla uk³adu z obiektem stabilnym, wzrost wzmocnienia powoduje:
+a. polepszenie dok³adnoœci i pogorszenie zapasu stabilnoœci //Uchyb ustalony jest odwrotnie proporcjonalny do wspó³czynnika wzmocnienia. Im lepsza (tj. wiêksza) dok³adnoœæ, tym mniejszy uchyb ustalony. Wzrost wzmocnienia powoduje zmniejszenie uchybu,wiêc im wiêksze wzmocnienie tym wiêksza dok³adnoœæ.
+24. Które z wymienionych wielkoœci nale¿¹ do parametrów nastawialnych uniwersalnych regulatorów
+przemys³owych:
+a. wzmocnienie
+b. czas zdwojenia,
+c. czas wyprzedzenia,
+25. Je¿eli w URA zostanie zastosowany regulator, który poszerzy pasmo przenoszenia to wp³ynie to na:
+a. skrócenie czasu regulacji (99,9%)
+26. Pêtla histerezy:
+a. Wystêpuje w ka¿dym systemie dynamicznym
+b. Jest elementem regulatorów PID
+c. Oznacza ujemne sprzê¿enie zwrotne w uk³adzie automatycznej regulacji
+d. Opisuje regulator dwustanowy
+27. Klasyczny regulator PID jest regulatorem:
+a. liniowym lub nieliniowym zale¿nie od sterowanego obiektu
+b. nieliniowym
+c. liniowym lub nieliniowym zale¿nie od podstaw
+d. liniowym
+28. Czy kontroler PID zawiera cz³on ca³kuj¹cy?
+a. Tak
+b. Czasami
+c. Nie
+29. Ile parametrów nastawimy w regulatorze typu PID:
+a. jeden
+b. zale¿y od konkretnego regulatora PID
+c. trzy
+30. W regulatorze typu PID:
+a. Wszystkie cz³ony po³¹czone s¹ szeregowo
+b. Wszystkie cz³ony po³¹czone s¹ równolegle
+c. Cz³ony P i I po³¹czone s¹ szeregowo, a D równolegle
+d. Cz³ony P i D po³¹czone s¹ równolegle, a I szeregowo
+31. Algorytm regulacji PD nale¿y stosowaæ, gdy:
+a. przebiegi sygna³ów w uk³adzie s¹ szybkie - o du¿ej czêstotliwoœci
+32. 10. Czy steruj¹c wejœciem mo¿na zdestabilizowaæ uk³ad zamkniêty z cz³onem PID?
+a. nie
+b. zale¿y
+c. tak
+33. Cz³on proporcjonalny jest cz³onem:
+a. pierwszego rzêdu
+b. zerowego rzêdu
+c. drugiego rzêdu
+34. Cz³on oscylacyjny jest cz³onem:
+a. zerowego rzêdu
+b. pierwszego rzêdu
+c. drugiego rzêdu
+35. Spoœród podstawowych cz³onów dynamicznych zjawisko rezonansu mo¿e zachodziæ w:
+a. tylko w cz³onie oscylacyjnym.
+36. Cz³on inercyjny I-go rzêdu to:
+a. model matematyczny uk³adów wspólny dla specyficznych uk³adów o dowolnej naturze fizycznej,
+b. inna nazwa czwórnika elektrycznego
+37. Identyfikuj¹c cz³on inercyjny I rzêdu wyznaczamy:
+a. jeden parametr
+b. dwa parametry 
+c. trzy parametry
+38. Podczas aproksymacji obiektu regulacji obiektem inercyjnym II rzêdu z opóŸnieniem musimy wyznaczyæ:
+a. trzy parametry 
+b. dwa parametry
+c. cztery parametry
+39. OdpowiedŸ skokowa obiektu inercyjnego I rzêdu jest funkcj¹:
+a. rosn¹c¹
+b. niemalej¹c¹
+c. malej¹c¹
+40. OdpowiedŸ skokowa obiektu ró¿niczkuj¹cego z inercj¹ jest funkcj¹:
+a. malej¹c¹
+b. sta³¹
+c. rosn¹c¹
+41. OdpowiedŸ skokowa obiektu ró¿niczkuj¹cego jest funkcj¹:
+a. malej¹c¹
+b. sta³¹ 
+c. rosn¹c¹
+42. OdpowiedŸ skokowa cz³onu ca³kuj¹cego ma wartoœæ:
+a. Sta³¹
+b. Rosn¹c¹
+c. Malej¹c¹
+43. Odpowiedzi¹ obiektu ca³kuj¹cego jest funkcj¹:
+a. Malej¹c¹
+b. Sta³¹
+c. Rosn¹c¹
+44. Czy na podstawie znajomoœci odpowiedzi impulsowej mo¿emy wyznaczyæ model uk³adu?
+a. tylko ca³kuj¹cy
+b. tak 
+c. nie
+45. Czy mo¿na wyznaczyæ model uproszczony obiektu na podstawie jego wykresu odpowiedzi skokowej?
+a. nie
+b. tak
+c. tylko dla obiektu ca³kuj¹cego
+46. Obiekt liniowy jest stabilny je¿eli:
+a. jego odpowiedŸ skokowa nie ma oscylacji
+b. jego sygna³ wejœciowy jest ograniczony
+c. jego odpowiedŸ impulsowa zanika do zera
+d. jego warunki pocz¹tkowe s¹ zerowe
+47. OdpowiedŸ skokowa stabilnego systemu liniowego:
+a. maleje do zera
+b. zawsze roœnie, lecz nie szybciej ni¿ wyk³adniczo
+c. nie wiadomo, zale¿y to od warunku pocz¹tkowego
+d. ustala siê na sta³ej wartoœci
+48. Która z metod nawigacji wózków AGV obs³uguj¹cych ESP(elastyczne systemy produkcyjne) jest najmniej dok³adna:
+a. metoda sonarowa
+b. metoda laserowa
+c. metoda GPS
+49. Najdok³adniejsz¹ metod¹ nawigacji jest metoda
+a. Sonarowa
+b. GPS
+c. Laserowa
+50. Która z metod nawigacji AGV jest najmniej dok³adna?
+a. metoda pêtli indukcyjnej
+b. metoda laserowa
+c. metoda ¿yroskopowa
+51. Która z metod nawigacji AGV jest najmniej dok³adna?
+a. metoda ¿yroskopowa
+b. metoda sonarowa
+c. metoda laserowa
+52. Proste zadanie kinematyki polega na:
+a. Wyznaczeniu trajektorii wspó³rzêdnych wewnêtrznych robota znaj¹c wspó³rzêdne trajektorii chwytaka
+b. Wyznaczeniu wektora trajektorii wspó³rzêdnych wewnêtrznych robota znaj¹c wspó³rzêdne trajektorii
+chwytaka
+c. Wyznaczeniu trajektorii chwytaka znaj¹c wewnêtrzne wspó³rzêdne trajektorii robota
+53. Rozwi¹zanie prostego zadania kinematyki dla zadanego robota polega na wyznaczeniu:
+a. trajektorii punktu pracy
+b. wspó³rzêdnych zewnêtrznych punktu pracy dla zadanego wektora wspó³rzêdnych naturalnych 
+c. wyznaczeniu nastaw w przegubach dla danego po³o¿enia punktu pracy we wspó³rzêdnych zewnêtrznych
+54. Rozwi¹zanie odwrotnego zadania kinematyki dla zadanego robota polega na:
+a. wyznaczeniu trajektorii wspó³rzêdnych wewnêtrznych dla znanej trajektorii chwytaka
+b. wyznaczeniu wektora wspó³rzêdnych wewnêtrznych dla koñcowego punktu pracy
+55. Rozwi¹zanie odwrotnego zadania kinematyki dla zadanego robota polega na wyznaczeniu:
+a. Trajektorii punktu pracy
+b. Wspó³rzêdnych zewnêtrznych punktu pracy, dla zadanego wektora wspó³rzêdnych wewnêtrznych
+c. Wyznaczenie nastaw w przegubach dla danego po³o¿enia punktu pracy we wspó³rzêdnych:
+56. Robot typu antropomorficzny to robot o konfiguracji odcinka regionalnego:
+a. OOP
+b. OOO
+c. OPO
+57. Robot sferyczny ma regionalny odcinek ³añcucha kinematycznego notowany jako:
+a. OPP
+b. OOP
+c. POP
+58. Robot typu sferyczny to robot o konfiguracji odcinka regionalnego:
+a. OOP
+b. OOO
+c. OPO
+59. Robot typu kartezjañski to robot o konfiguracji odcinka regionalnego:
+a. PPP
+b. OOO
+c. OPO
+60. Robot cylindryczny jest robotem o konfiguracji:
+a. POO
+b. OOP
+c. OPP
+61. Robot typu cylindryczny to robot o konfiguracji odcinka regionalnego:
+a. OPP
+b. OOO
+c. OPO
+62. Robot typu Scara to robot o konfiguracji odcinka regionalnego:
+a. OOP
+b. OOO
+c. OPO
+63. 27. Robot IRB 1400 jest robotem o konfiguracji
+a. antropomorficznej
+b. sferycznej
+c. kartezjañskiej
+64. Robot IRB1400 to robot:
+a. Monolityczny prosty
+b. (?) Monolityczny z³o¿ony //dyskusja nadal trwa (...)
+c. (?) Modu³owy dymensyjny //dymensyjny oznacza to samo co z³o¿ony
+d. Modu³owy prosty
+65. Robot PR-02 to robot:
+a. monolityczny prosty
+b. modu³owy dymensyjny
+c. modu³owy prosty
+66. Robot programowany przez tzw. uczenie nale¿y do robotów:
+a. III generacji
+b. Prostych
+c. II generacji
+67. Ka¿dy obiekt liniowy:
+a. jest obiektem z czasem ci¹g³ym
+b. spe³nia zasadê superpozycji
+c. jest stabilny
+68. Obiekt opisany równaniem ró¿niczkowym y(t)=u'(t) jest:
+a. liniowy, dynamiczny, z czasem ci¹g³ym
+b. nieliniowy, dynamiczny, z czasem ci¹g³ym
+c. nieliniowy, statyczny, z czasem dyskretnym
+d. liniowy, statyczny, z czasem dyskretnym
+69. Obiekt opisany równaniem ró¿niczkowym y(t)=u’(t)*u(t) jest
+a. liniowy, statyczny, z czasem dyskretnym
+b. nieliniowy, dynamiczny, z czasem ci¹g³ym
+c. nieliniowy, statyczny, z czasem dyskretnym
+d. liniowy, dynamiczny z czasem ci¹g³ym
+70. Stacjonarny system dynamiczny:
+a. Spe³nia zasadê superpozycji
+b. Jest stabilny
+c. Posiada ujemne sprzê¿enie zwrotne
+d. Mo¿e byæ opisywany równaniem ró¿niczkowym 
+71. W uk³adzie dynamicznym z czasem ci¹g³ym wyjœcie jest splotem:
+a. wejœcia i charakterystyki impulsowej //przy zerowych warunkach pocz¹tkowych
+72. Stabilnoœæ liniowego uk³adu dynamicznego oznacza:
+a. ograniczon¹ odpowiedŸ na ograniczone wejœcie //BIBO
+b. sta³¹ odpowiedŸ na ograniczone wejœcie
+c. zerow¹ odpowiedŸ na ograniczone wejœcie
+73. Ka¿dy system BIBO (bounded input, bounded output) stabilny:
+a. jest systemem dynamicznym
+b. przy nieograniczonym wyjœciu daje nieograniczone wejœcie
+c. przy nieograniczonym wyjœciu daje nieograniczone wejœcie
+d. ¿adna z powy¿szych odpowiedzi
+74. Charakterystyki czêstotliwoœciowe uk³adu dynamicznego [pokazuj¹/] pozwalaj¹ bezpoœrednio okreœliæ:
+a. wzmocnienie i przesuniêcie fazowe w funkcji czêstotliwoœci,
+b. zale¿noœæ przesuniêcia fazowego i wzmocnienia od pulsacji
+75. Badaj¹c charakterystyki czêstotliwoœciowe uk³adu, na jego wejœcie podajemy wymuszenie sinusoidalne o:
+a. Sta³ej amplitudzie i sta³ej pulsacji
+b. Zmiennej amplitudzie i sta³ej pulsacji
+c. Zmiennej amplitudzie i zmiennej pulsacji
+d. Sta³ej amplitudzie i zmiennej pulsacji 
+76. Transformata Laplace’a przekszta³ca funkcjê rzeczywist¹ zmiennej rzeczywistej w:
+a. funkcjê zespolon¹ zmiennej zespolonej
+b. funkcjê zespolon¹ zmiennej rzeczywistej
+c. funkcjê rzeczywist¹ zmiennej rzeczywistej
+d. funkcjê rzeczywist¹ zmiennej zespolonej
+77. Na czym polega korzyœæ z zastosowania transformaty Laplace'a?
+a. przekszta³ca splot w iloczyn
+b. pozwala na analizê obiektów nieliniowych
+c. pozwala na analizê obiektów dyskretnych
+d. sprowadza równania zespolone do rzeczywistych
+78. Transmitancja operatorowa to:
+a. rodzaj opisu dynamiki //stosunek transformaty Laplace’a sygna³u wyjœcia do transformaty Laplace’a sygna³u wejœcia
+79. Transmitancja jest zdefiniowana tylko dla:
+a. Uk³adów liniowych i nieliniowych
+b. Uk³adów liniowych
+c. Uk³adów nieliniowych
+d. Uk³adów dyskretnych
+80. Podaj warunek konieczny i wystarczaj¹cy stabilnoœci asymptotycznej uk³adu liniowego.
+a. Wszystkie pierwiastki równania charakterystycznego maj¹ ujemn¹ czêœæ rzeczywist¹ (le¿¹ w lewej pó³p³aszczyŸnie zmiennej zespolonej)
+81. Uk³ad ma transmitancjê G(s)=k/((1+sT1)(1-sT2)s. Uk³ad ten jest:
+a. niestabilny,
+82. Pomiar temperatury czujnikiem Pt100 w zakresie (0-400)°C wykorzystano przetwornik pomiarowy w standardzie
+(4-20)mA. Wykonano pomiar tego pr¹du i uzyskano wynik 12.00 mA, st¹d wynika, ¿e …
+a. 100 °C
+b. 200 °C
+c. 300 °C
+d. 400 °C
+83. W pomiarach przemys³owych dla sygna³ów ci¹g³ych (analogowych) nie stosuje siê standardu:
+a. (0-5) V
+b. (0-10) V
+c. (0-20) mA
+84. Robot IRB 1400 potrzebuje m = 3 wspó³rzêdnych aby ustawiæ ramiê na jednej p³aszczyŸnie. Ile wynosi stopieñ
+redundancji dla tego zadania?
+a. 2
+b. 4
+c. 3 //liczba stopni swobody(iss) IRB 1400 = 6. Wzór: redundancja = iss – m. Obliczenia: 6 – 3 = 3
+85. Jeœli robot IRB 1400 wykonuje zadania przemieszczania w jednej p³aszczyŸnie (do opisania trajektorii chwytaka
+potrzeba m=4 wspó³rzêdnych zewnêtrznych) to:
+a. jego stopieñ redundancji dla tej klasy trajektorii wynosi 4
+b. jego stopieñ redundancji dla tej klasy trajektorii wynosi 2
+c. jego stopieñ redundancji dla tej klasy trajektorii wynosi 1
+86. Jeœli robot posiada 1 przegub 4 klasy i 5 przegubów 5 klasy to jego liczba stopni swobody wynosi:
+a. Szeœæ
+b. Piêæ
+c. Siedem // 6* (1+5) - ( 1*4 + 5*5 ) = 36 - 29 = 7
+87. Jeœli robot posiada 2 przeguby 4 klasy i 2 przeguby 5 klasy, to jego ruchliwoœæ wynosi:
+a. 6 // 6*(2+2) - (2*4 + 2*5) = 24 - 18 = 6
+b. 5
+c. 8
+d. 4
+88. Robot ma 2 przeguby 4 klasy i 3 przeguby 5 klasy. jaka jest ruchliwoœæ?
+a. siedem //(6*5 - 2*4 - 3*5 = 7)
+b. szeœæ
+c. piêæ
+d. trzy
+89. Ile maszyna ma stopni swobody jeœli ma 3 przeguby 5 klasy i 2 przeguby 4 klasy
+a. 7 //(6*5 - 2*4 - 3*5 = 7)
+b. 4
+c. 6
+d. 8
+90. Robot ma 2 przeguby klasy 4 i 2 przeguby 5 klasy. Jaka jest jego manewrowoœæ?
+a. 0 //6*(4-1) - ((2*4)+(2*5))=18 – 18 = 0
+91. Jeœli robot posiada 2 przeguby 4 klasy i 4 przeguby 5 klasy, to jego liczba stopni swobody wynosi:
+a. szeœæ
+b. siedem
+c. osiem
+92. Robot o dwóch modu³ach klasy IV i dwóch klasy V ma ile stopni swobody?
+a. 8
+b. 6
+c. 4
+93. Jeœli robot posiada 3 przeguby 4 klasy i 4 przeguby 5 klasy to jego liczba stopni swobody wynosi
+a. 10
+b. 6
+c. 8
+94. Ile stopni swobody ma robot o 1 przegubie klasy 3 i 3 przegubach klasy 5?
+a. szeœæ
+b. siedem
+c. piêæ
+d. osiem
+95. Jeœli robot posiada 1 przegub 4 klasy i 2 przeguby 5 klasy to jego ruchliwoœæ wynosi:
+a. dwa
+b. trzy
+c. cztery

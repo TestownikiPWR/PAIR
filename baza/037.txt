@@ -1,0 +1,5 @@
+X0100
+37. Identyfikuj¹c cz³on inercyjny I rzêdu wyznaczamy:
+a. jeden parametr
+b. dwa parametry 
+c. trzy parametry

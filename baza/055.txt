@@ -1,0 +1,5 @@
+X0010
+55. Rozwi¹zanie odwrotnego zadania kinematyki dla zadanego robota polega na wyznaczeniu:
+a. Trajektorii punktu pracy
+b. Wspó³rzêdnych zewnêtrznych punktu pracy dla zadanego wektora wspó³rzêdnych wewnêtrznych
+c. Wyznaczenie nastaw w przegubach dla danego po³o¿enia punktu pracy we wspó³rzêdnych:

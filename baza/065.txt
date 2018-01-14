@@ -1,0 +1,5 @@
+X0010
+65. Robot PR-02 to robot:
+a. monolityczny prosty
+b. modu³owy dymensyjny
+c. modu³owy prosty

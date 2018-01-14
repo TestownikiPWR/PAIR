@@ -1,0 +1,3 @@
+X1000
+20. Kryterium stabilnoœci Nyquista opiera siê na analizie:
+a. charakterystyki amplitudowo - fazowej uk³adu otwartego.

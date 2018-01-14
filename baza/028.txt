@@ -1,0 +1,5 @@
+X1000
+28. Czy kontroler PID zawiera cz³on ca³kuj¹cy?
+a. Tak
+b. Czasami
+c. Nie

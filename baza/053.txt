@@ -1,0 +1,5 @@
+X0100
+53. Rozwi¹zanie prostego zadania kinematyki dla zadanego robota polega na wyznaczeniu:
+a. trajektorii punktu pracy
+b. wspó³rzêdnych zewnêtrznych punktu pracy dla zadanego wektora wspó³rzêdnych naturalnych 
+c. wyznaczeniu nastaw w przegubach dla danego po³o¿enia punktu pracy we wspó³rzêdnych zewnêtrznych

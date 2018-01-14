@@ -1,0 +1,5 @@
+X1000
+61. Robot typu cylindryczny to robot o konfiguracji odcinka regionalnego:
+a. OPP
+b. OOO
+c. OPO

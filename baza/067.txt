@@ -1,0 +1,5 @@
+X0100
+67. Ka¿dy obiekt liniowy:
+a. jest obiektem z czasem ci¹g³ym
+b. spe³nia zasadê superpozycji
+c. jest stabilny

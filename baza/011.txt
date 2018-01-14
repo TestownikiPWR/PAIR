@@ -1,0 +1,5 @@
+X0010
+11. Uchyb jest
+a. Wyjœciem ca³ego uk³adu
+b. Wejœciem ca³ego uk³adu
+c. Wejœciem uk³adu steruj¹cego

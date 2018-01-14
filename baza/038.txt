@@ -1,0 +1,5 @@
+X1000
+38. Podczas aproksymacji obiektu regulacji obiektem inercyjnym II rzêdu z opóŸnieniem musimy wyznaczyæ:
+a. trzy parametry 
+b. dwa parametry
+c. cztery parametry

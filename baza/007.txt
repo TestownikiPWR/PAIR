@@ -1,0 +1,5 @@
+X1000
+7. Jak wykonywane s¹ instrukcje w sterowniku PLC?
+a. krokowo
+b. cyklicznie >10min
+c. cyklicznie <100ms

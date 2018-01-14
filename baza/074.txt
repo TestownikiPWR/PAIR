@@ -1,0 +1,4 @@
+X0100
+74. Charakterystyki czêstotliwoœciowe uk³adu dynamicznego [pokazuj¹/] pozwalaj¹ bezpoœrednio okreœliæ:
+a. wzmocnienie i przesuniêcie fazowe w funkcji czêstotliwoœci
+b. zale¿noœæ przesuniêcia fazowego i wzmocnienia od pulsacji

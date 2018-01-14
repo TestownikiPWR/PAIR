@@ -1,0 +1,5 @@
+X0010
+84. Robot IRB 1400 potrzebuje m = 3 wspó³rzêdnych aby ustawiæ ramiê na jednej p³aszczyŸnie. Ile wynosi stopieñ redundancji dla tego zadania?
+a. 2
+b. 4
+c. 3 //liczba stopni swobody(iss) IRB 1400 = 6. Wzór: redundancja = iss – m. Obliczenia: 6 – 3 = 3

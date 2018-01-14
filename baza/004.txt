@@ -1,0 +1,5 @@
+X0100
+4. Czym mierzymy temperaturê?
+a. termoskopem
+b. termoelementem
+c. termotronem

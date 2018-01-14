@@ -1,0 +1,6 @@
+X0010
+2. Enkoder magnetyczny to urz¹dzenie s³u¿¹ce do:
+a. Dekodowania informacji zapisanej w postaci magnetycznej
+b. Pomiaru przyspieszenia robota
+c. Uzyskiwania informacji na temat prêdkoœci i kierunku obrotu ko³a
+d. Chwytania elementów (mocuje siê je na koñcu efektora manipulatora)

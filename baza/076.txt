@@ -1,0 +1,6 @@
+X1000
+76. Transformata Laplace’a przekszta³ca funkcjê rzeczywist¹ zmiennej rzeczywistej w:
+a. funkcjê zespolon¹ zmiennej zespolonej
+b. funkcjê zespolon¹ zmiennej rzeczywistej
+c. funkcjê rzeczywist¹ zmiennej rzeczywistej
+d. funkcjê rzeczywist¹ zmiennej zespolonej

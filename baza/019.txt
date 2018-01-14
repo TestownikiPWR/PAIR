@@ -1,0 +1,5 @@
+X0010
+19. Metoda doboru nastaw regulatorów to:
+a. metoda Taylora
+b. metoda Nyquista
+c. metoda Zieglera-Nicholsa

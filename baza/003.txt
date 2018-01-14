@@ -1,0 +1,6 @@
+X0100
+3. Odometria to:
+a. Przyrz¹d do pomiaru odleg³oœci przebytej przez robota
+b. Metoda okreœlania po³o¿enia robota mobilnego w przestrzeni bazuj¹ca na enkoderach w ko³ach
+c. Czujnik zapachowy
+d. Nauka o ró¿nicach w budowie robotów ze wzglêdu na œrodowisko dzia³ania urz¹dzenia

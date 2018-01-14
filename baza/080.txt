@@ -1,0 +1,3 @@
+X1000
+80. Podaj warunek konieczny i wystarczaj¹cy stabilnoœci asymptotycznej uk³adu liniowego.
+a. Wszystkie pierwiastki równania charakterystycznego maj¹ ujemn¹ czêœæ rzeczywist¹ (le¿¹ w lewej pó³p³aszczyŸnie zmiennej zespolonej)

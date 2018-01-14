@@ -1,0 +1,3 @@
+X1000
+78. Transmitancja operatorowa to:
+a. rodzaj opisu dynamiki //stosunek transformaty Laplace’a sygna³u wyjœcia do transformaty Laplace’a sygna³u wejœcia

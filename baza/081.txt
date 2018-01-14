@@ -1,0 +1,3 @@
+X1000
+81. Uk³ad ma transmitancjê G(s)=k/((1+sT1)(1-sT2)s. Uk³ad ten jest:
+a. niestabilny

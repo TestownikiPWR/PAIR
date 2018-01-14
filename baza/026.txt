@@ -1,0 +1,6 @@
+X0001
+26. Pêtla histerezy:
+a. Wystêpuje w ka¿dym systemie dynamicznym
+b. Jest elementem regulatorów PID
+c. Oznacza ujemne sprzê¿enie zwrotne w uk³adzie automatycznej regulacji
+d. Opisuje regulator dwustanowy

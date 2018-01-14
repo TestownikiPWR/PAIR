@@ -1,0 +1,6 @@
+X1000
+68. Obiekt opisany równaniem ró¿niczkowym y(t)=u'(t) jest:
+a. liniowy dynamiczny z czasem ci¹g³ym
+b. nieliniowy dynamiczny z czasem ci¹g³ym
+c. nieliniowy statyczny z czasem dyskretnym
+d. liniowy statyczny z czasem dyskretnym

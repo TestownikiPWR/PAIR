@@ -1,0 +1,6 @@
+X0001
+75. Badaj¹c charakterystyki czêstotliwoœciowe uk³adu na jego wejœcie podajemy wymuszenie sinusoidalne o:
+a. Sta³ej amplitudzie i sta³ej pulsacji
+b. Zmiennej amplitudzie i sta³ej pulsacji
+c. Zmiennej amplitudzie i zmiennej pulsacji
+d. Sta³ej amplitudzie i zmiennej pulsacji 

@@ -1,0 +1,6 @@
+X1000
+89. Ile maszyna ma stopni swobody jeœli ma 3 przeguby 5 klasy i 2 przeguby 4 klasy
+a. 7 //(6*5 - 2*4 - 3*5 = 7)
+b. 4
+c. 6
+d. 8

@@ -1,0 +1,3 @@
+X1000
+71. W uk³adzie dynamicznym z czasem ci¹g³ym wyjœcie jest splotem:
+a. wejœcia i charakterystyki impulsowej //przy zerowych warunkach pocz¹tkowych

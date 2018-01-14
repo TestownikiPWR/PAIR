@@ -1,0 +1,5 @@
+X0100
+85. Jeœli robot IRB 1400 wykonuje zadania przemieszczania w jednej p³aszczyŸnie (do opisania trajektorii chwytaka potrzeba m=4 wspó³rzêdnych zewnêtrznych) to:
+a. jego stopieñ redundancji dla tej klasy trajektorii wynosi 4
+b. jego stopieñ redundancji dla tej klasy trajektorii wynosi 2
+c. jego stopieñ redundancji dla tej klasy trajektorii wynosi 1

@@ -1,0 +1,5 @@
+X0010
+48. Która z metod nawigacji wózków AGV obs³uguj¹cych ESP(elastyczne systemy produkcyjne) jest najmniej dok³adna:
+a. metoda sonarowa
+b. metoda laserowa
+c. metoda GPS

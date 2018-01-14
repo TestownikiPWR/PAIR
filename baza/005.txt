@@ -1,0 +1,5 @@
+X0100
+5. Który z poni¿szych protoko³ów nie jest protoko³em przemys³owym?
+a. Net bus
+b. UDP
+c. Profibus

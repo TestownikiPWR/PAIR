@@ -1,0 +1,6 @@
+X0100
+69. Obiekt opisany równaniem ró¿niczkowym y(t)=u’(t)*u(t) jest
+a. liniowy statyczny z czasem dyskretnym
+b. nieliniowy dynamiczny z czasem ci¹g³ym
+c. nieliniowy statyczny z czasem dyskretnym
+d. liniowy dynamiczny z czasem ci¹g³ym

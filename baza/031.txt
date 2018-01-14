@@ -1,0 +1,3 @@
+X1000
+31. Algorytm regulacji PD nale¿y stosowaæ gdy:
+a. przebiegi sygna³ów w uk³adzie s¹ szybkie - o du¿ej czêstotliwoœci

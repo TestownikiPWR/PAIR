@@ -1,0 +1,3 @@
+X1000
+6. Jaki jêzyk jest najczêœciej stosowany w programowaniu PLC?
+a. drabinkowy LD 

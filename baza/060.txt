@@ -1,0 +1,5 @@
+X0010
+60. Robot cylindryczny jest robotem o konfiguracji:
+a. POO
+b. OOP
+c. OPP

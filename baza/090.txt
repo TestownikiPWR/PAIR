@@ -1,0 +1,3 @@
+X1000
+90. Robot ma 2 przeguby klasy 4 i 2 przeguby 5 klasy. Jaka jest jego manewrowoœæ?
+a. 0 //6*(4-1) - ((2*4)+(2*5))=18 – 18 = 0

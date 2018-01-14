@@ -1,0 +1,5 @@
+X0010
+43. Odpowiedzi¹ obiektu ca³kuj¹cego jest funkcj¹:
+a. Malej¹c¹
+b. Sta³¹
+c. Rosn¹c¹
