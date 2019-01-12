@@ -1,5 +1,5 @@
-X1000
-72. Stabilnoœæ liniowego uk³adu dynamicznego oznacza:
-a. ograniczon¹ odpowiedŸ na ograniczone wejœcie //BIBO
-b. sta³¹ odpowiedŸ na ograniczone wejœcie
-c. zerow¹ odpowiedŸ na ograniczone wejœcie
+ï»¿X1000
+StabilnoÅ›Ä‡ liniowego ukÅ‚adu dynamicznego oznacza:
+ograniczonÄ… odpowiedÅº na ograniczone wejÅ›cie //BIBO
+staÅ‚Ä… odpowiedÅº na ograniczone wejÅ›cie
+zerowÄ… odpowiedÅº na ograniczone wejÅ›cie
