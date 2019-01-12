@@ -1,5 +1,5 @@
-X0010
-52. Proste zadanie kinematyki polega na:
-a. Wyznaczeniu trajektorii wsp蟪rz阣nych wewn阾rznych robota znaj筩 wsp蟪rz阣ne trajektorii chwytaka
-b. Wyznaczeniu wektora trajektorii wsp蟪rz阣nych wewn阾rznych robota znaj筩 wsp蟪rz阣ne trajektorii chwytaka
-c. Wyznaczeniu trajektorii chwytaka znaj筩 wewn阾rzne wsp蟪rz阣ne trajektorii robota
+锘縓0010
+Proste zadanie kinematyki polega na:
+Wyznaczeniu trajektorii wsp贸艂rz臋dnych wewn臋trznych robota znaj膮c wsp贸艂rz臋dne trajektorii chwytaka
+Wyznaczeniu wektora trajektorii wsp贸艂rz臋dnych wewn臋trznych robota znaj膮c wsp贸艂rz臋dne trajektorii chwytaka
+Wyznaczeniu trajektorii chwytaka znaj膮c wewn臋trzne wsp贸艂rz臋dne trajektorii robota

@@ -1,6 +1,6 @@
-X0010
-46. Obiekt liniowy jest stabilny jeøeli:
-a. jego odpowiedü skokowa nie ma oscylacji
-b. jego sygna≥ wejúciowy jest ograniczony
-c. jego odpowiedü impulsowa zanika do zera
-d. jego warunki poczπtkowe sπ zerowe
+ÔªøX0010
+Obiekt liniowy jest stabilny je≈ºeli:
+jego odpowied≈∫ skokowa nie ma oscylacji
+jego sygna≈Ç wej≈õciowy jest ograniczony
+jego odpowied≈∫ impulsowa zanika do zera
+jego warunki poczƒÖtkowe sƒÖ zerowe

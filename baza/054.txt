@@ -1,4 +1,4 @@
-X0100
-54. Rozwi¹zanie odwrotnego zadania kinematyki dla zadanego robota polega na:
-a. wyznaczeniu trajektorii wspó³rzêdnych wewnêtrznych dla znanej trajektorii chwytaka
-b. wyznaczeniu wektora wspó³rzêdnych wewnêtrznych dla koñcowego punktu pracy
+ï»¿X0100
+RozwiÄ…zanie odwrotnego zadania kinematyki dla zadanego robota polega na:
+wyznaczeniu trajektorii wspÃ³Å‚rzÄ™dnych wewnÄ™trznych dla znanej trajektorii chwytaka
+wyznaczeniu wektora wspÃ³Å‚rzÄ™dnych wewnÄ™trznych dla koÅ„cowego punktu pracy
