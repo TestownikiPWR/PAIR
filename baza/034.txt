@@ -1,5 +1,5 @@
-X0010
-34. Cz³on oscylacyjny jest cz³onem:
-a. zerowego rzêdu
-b. pierwszego rzêdu
-c. drugiego rzêdu
+ï»¿X0010
+CzÅ‚on oscylacyjny jest czÅ‚onem:
+zerowego rzÄ™du
+pierwszego rzÄ™du
+drugiego rzÄ™du

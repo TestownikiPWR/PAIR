@@ -1,5 +1,5 @@
-X1000
-41. OdpowiedŸ skokowa obiektu ró¿niczkuj¹cego jest funkcj¹:
-a. malej¹c¹
-b. sta³¹ 
-c. rosn¹c¹
+ï»¿X1000
+OdpowiedÅº skokowa obiektu rÃ³Å¼niczkujÄ…cego jest funkcjÄ…:
+malejÄ…cÄ…
+staÅ‚Ä… 
+rosnÄ…cÄ…
