@@ -1,6 +1,6 @@
-X0100
-64. Robot IRB1400 to robot:
-a. Monolityczny prosty
-b. (?) Monolityczny z≥oøony //dyskusja nadal trwa (...)
-c. (?) Modu≥owy dymensyjny //dymensyjny oznacza to samo co z≥oøony
-d. Modu≥owy prosty
+ÔªøX0100
+Robot IRB1400 to robot:
+Monolityczny prosty
+(?) Monolityczny z≈Ço≈ºony //dyskusja nadal trwa (...)
+(?) Modu≈Çowy dymensyjny //dymensyjny oznacza to samo co z≈Ço≈ºony
+Modu≈Çowy prosty
