@@ -3,3 +3,4 @@ Najdokładniejszą metodą nawigacji jest metoda
 Sonarowa
 GPS
 Laserowa
+żyroskopowa
