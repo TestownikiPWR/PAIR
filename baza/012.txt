@@ -1,6 +1,6 @@
-X1000
-12. Wzór na sygna³ wyjœciowy (w uk³adzie zamkniêtym) regulatora: //uk³ad zamkniêty czyli ze sprzê¿eniem zwrotnym
-a. e=y_zadane-y
-b. e=u-y
-c. e=u+y
-d. e=calka(u+y)dt
+ï»¿X1000
+WzÃ³r na sygnaÅ‚ wyjÅ›ciowy (w ukÅ‚adzie zamkniÄ™tym) regulatora: //ukÅ‚ad zamkniÄ™ty czyli ze sprzÄ™Å¼eniem zwrotnym
+e=y_zadane-y
+e=u-y
+e=u+y
+e=calka(u+y)dt
