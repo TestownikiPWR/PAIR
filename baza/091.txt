@@ -1,5 +1,5 @@
-X0010
-91. Jeœli robot posiada 2 przeguby 4 klasy i 4 przeguby 5 klasy to jego liczba stopni swobody wynosi:
-a. szeœæ
-b. siedem
-c. osiem
+ï»¿X0010
+JeÅ›li robot posiada 2 przeguby 4 klasy i 4 przeguby 5 klasy to jego liczba stopni swobody wynosi:
+szeÅ›Ä‡
+siedem
+osiem
