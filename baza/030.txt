@@ -1,6 +1,6 @@
-X0100
-30. W regulatorze typu PID:
-a. Wszystkie cz³ony po³¹czone s¹ szeregowo
-b. Wszystkie cz³ony po³¹czone s¹ równolegle
-c. Cz³ony P i I po³¹czone s¹ szeregowo a D równolegle
-d. Cz³ony P i D po³¹czone s¹ równolegle a I szeregowo
+ï»¿X0100
+W regulatorze typu PID:
+Wszystkie czÅ‚ony poÅ‚Ä…czone sÄ… szeregowo
+Wszystkie czÅ‚ony poÅ‚Ä…czone sÄ… rÃ³wnolegle
+CzÅ‚ony P i I poÅ‚Ä…czone sÄ… szeregowo a D rÃ³wnolegle
+CzÅ‚ony P i D poÅ‚Ä…czone sÄ… rÃ³wnolegle a I szeregowo
