@@ -1,5 +1,0 @@
-﻿X0010
-Rozwiązanie odwrotnego zadania kinematyki dla zadanego robota polega na wyznaczeniu:
-Trajektorii punktu pracy
-Współrzędnych zewnętrznych punktu pracy dla zadanego wektora współrzędnych wewnętrznych
-Wyznaczenie nastaw w przegubach dla danego położenia punktu pracy we współrzędnych:

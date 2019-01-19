@@ -1,5 +1,0 @@
-﻿X1000
-Robot typu cylindryczny to robot o konfiguracji odcinka regionalnego:
-OPP
-OOO
-OPO

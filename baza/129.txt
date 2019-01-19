@@ -1,0 +1,4 @@
+﻿X1000
+Robot YuMi:
+robot złożony monolityczny
+robot złożony modułowy

@@ -1,6 +1,0 @@
-﻿X0001
-Które z poniższych zdań jest prawdziwe:
-dużą wartość całkowego kryterium regulacji powoduje duże przeregulowanie
-duża wartość przeregulowania powoduje dużą wartość uchybu w stanie ustalonym
-krótki czas regulacji powoduje małe przeregulowanie
-duża wartość uchybu w stanie ustalonym powoduje dużą wartość całkowego kryterium regulacji

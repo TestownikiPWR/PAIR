@@ -1,0 +1,5 @@
+﻿x0100
+Jaki element jest wykorzystywany najczęściej do realizacji separacji galwanicznej binarnych wejść sterownika PLC:
+transformator
+transoptor
+przekaźnik elektromechaniczny

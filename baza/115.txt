@@ -1,0 +1,5 @@
+﻿﻿X
+Sterowanie przegubami robota w otwartej pętli stosuje się
+w robotach
+robotach prostych
+w robotach złożonych
