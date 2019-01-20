@@ -1,5 +1,5 @@
-X0010
-29. Ile parametrów nastawimy w regulatorze typu PID:
-a. jeden
-b. zale¿y od konkretnego regulatora PID
-c. trzy
+ï»¿X0010
+Ile parametrÃ³w nastawimy w regulatorze typu PID:
+jeden
+zaleÅ¼y od konkretnego regulatora PID
+trzy

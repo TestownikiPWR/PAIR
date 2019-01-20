@@ -1,5 +1,5 @@
-X0010
-32. 10. Czy steruj¹c wejœciem mo¿na zdestabilizowaæ uk³ad zamkniêty z cz³onem PID?
-a. nie
-b. zale¿y
-c. tak
+ï»¿X0010
+Czy sterujÄ…c wejÅ›ciem moÅ¼na zdestabilizowaÄ‡ ukÅ‚ad zamkniÄ™ty z czÅ‚onem PID?
+nie
+zaleÅ¼y
+tak

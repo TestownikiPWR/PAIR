@@ -1,6 +1,6 @@
 X1000
-89. Ile maszyna ma stopni swobody je�li ma 3 przeguby 5 klasy i 2 przeguby 4 klasy
-a. 7 //(6*5 - 2*4 - 3*5 = 7)
-b. 4
-c. 6
-d. 8
+Ile maszyna ma stopni swobody jeśli ma 3 przeguby 5 klasy i 2 przeguby 4 klasy? // w=6*n-Σ(i*p), gdzie n - liczba ruchomych członów (par) łańcucha, i - klasa, p - liczba połączeń (przegubów) i-tej klasy
+7 
+4
+6
+8

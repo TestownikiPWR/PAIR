@@ -1,6 +1,6 @@
-X0001
-27. Klasyczny regulator PID jest regulatorem:
-a. liniowym lub nieliniowym zaleønie od sterowanego obiektu
-b. nieliniowym
-c. liniowym lub nieliniowym zaleønie od podstaw
-d. liniowym
+ÔªøX0001
+Klasyczny regulator PID jest regulatorem:
+liniowym lub nieliniowym zale≈ºnie od sterowanego obiektu
+nieliniowym
+liniowym lub nieliniowym zale≈ºnie od podstaw
+liniowym

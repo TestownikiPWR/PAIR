@@ -1,6 +1,6 @@
-X1000
-21. Które z poni¿szych zdañ jest prawdziwe:
-a. du¿a wartoœæ uchybu w stanie ustalonym powoduje du¿¹ wartoœæ ca³kowego kryterium regulacji//ca³kowe kryterium regulacji opiera siê na uchybie (regulacji) – dotyczy ka¿dego momentu dzia³ania uk³adu nie tylko pocz¹tkowego (jak w przypadku przeregulowania) (Ÿród³o: Horla – „Podstawy Automatyki” s.49)
-b. du¿¹ wartoœæ ca³kowego kryterium regulacji powoduje du¿e przeregulowanie
-c. krótki czas regulacji powoduje ma³e przeregulowanie
-d. du¿a wartoœæ przeregulowania powoduje du¿¹ wartoœæ uchybu w stanie ustalonym
+ï»¿X1000
+KtÃ³re z poniÅ¼szych zdaÅ„ jest prawdziwe:
+duÅ¼a wartoÅ›Ä‡ uchybu w stanie ustalonym powoduje duÅ¼Ä… wartoÅ›Ä‡ caÅ‚kowego kryterium regulacji
+duÅ¼Ä… wartoÅ›Ä‡ caÅ‚kowego kryterium regulacji powoduje duÅ¼e przeregulowanie
+krÃ³tki czas regulacji powoduje maÅ‚e przeregulowanie
+duÅ¼a wartoÅ›Ä‡ przeregulowania powoduje duÅ¼Ä… wartoÅ›Ä‡ uchybu w stanie ustalonym

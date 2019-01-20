@@ -1,5 +1,5 @@
-X0100
-5. KtÛry z poniøszych protoko≥Ûw nie jest protoko≥em przemys≥owym?
-a. Net bus
-b. UDP
-c. Profibus
+ÔªøX0100
+Kt√≥ry z poni≈ºszych protoko≈Ç√≥w nie jest protoko≈Çem przemys≈Çowym?
+Net bus
+UDP
+Profibus

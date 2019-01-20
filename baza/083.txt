@@ -1,5 +1,5 @@
-X1000
-83. W pomiarach przemys³owych dla sygna³ów ci¹g³ych (analogowych) nie stosuje siê standardu:
-a. (0-5) V
-b. (0-10) V
-c. (0-20) mA
+ï»¿X1000
+W pomiarach przemysÅ‚owych dla sygnaÅ‚Ã³w ciÄ…gÅ‚ych (analogowych) nie stosuje siÄ™ standardu:
+(0-5) V
+(0-10) V
+(0-20) mA

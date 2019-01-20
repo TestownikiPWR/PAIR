@@ -1,3 +1,6 @@
-X1000
-90. Robot ma 2 przeguby klasy 4 i 2 przeguby 5 klasy. Jaka jest jego manewrowo��?
-a. 0 //6*(4-1) - ((2*4)+(2*5))=18 � 18 = 0
+﻿X1000
+Robot ma 2 przeguby klasy 4 i 2 przeguby 5 klasy. Jaka jest jego manewrowość? // m=6*(n-2)-Σ(i*p), gdzie n - liczba ruchomych członów (par) łańcucha (w przypadku ruchliwości i manewrowości zwiększona o 1), i - klasa, p - liczba połączeń (przegubów) i-tej klasy
+0 
+5
+6
+7

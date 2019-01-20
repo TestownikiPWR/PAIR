@@ -1,5 +1,5 @@
-X0010
-66. Robot programowany przez tzw. uczenie nale¿y do robotów:
-a. III generacji
-b. Prostych
-c. II generacji
+ï»¿X0010
+Robot programowany przez tzw. uczenie naleÅ¼y do robotÃ³w:
+III generacji
+Prostych
+II generacji

@@ -1,0 +1,5 @@
+﻿﻿X0100
+Każdy system BIBO stabilny
+jest systemem dynamicznym
+przy ograniczonym wejściu daje ograniczone wyjście
+przy nieograniczonym wejściu daje ograniczone wyjście

@@ -1,5 +1,5 @@
-X1000
-24. Które z wymienionych wielkoœci nale¿¹ do parametrów nastawialnych uniwersalnych regulatorów przemys³owych:
-a. wzmocnienie
-b. czas zdwojenia
-c. czas wyprzedzenia
+ï»¿X1000
+KtÃ³re z wymienionych wielkoÅ›ci naleÅ¼Ä… do parametrÃ³w nastawialnych uniwersalnych regulatorÃ³w przemysÅ‚owych:
+wzmocnienie
+czas zdwojenia
+czas wyprzedzenia

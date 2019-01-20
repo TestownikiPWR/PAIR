@@ -1,6 +1,6 @@
-X0100
-79. Transmitancja jest zdefiniowana tylko dla:
-a. Uk砤d體 liniowych i nieliniowych
-b. Uk砤d體 liniowych
-c. Uk砤d體 nieliniowych
-d. Uk砤d體 dyskretnych
+锘縓0100
+Transmitancja jest zdefiniowana tylko dla:
+Uk艂ad贸w liniowych i nieliniowych
+Uk艂ad贸w liniowych
+Uk艂ad贸w nieliniowych
+Uk艂ad贸w dyskretnych

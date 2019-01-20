@@ -1,6 +1,6 @@
-X1000
-73. Kaødy system BIBO (bounded input bounded output) stabilny:
-a. jest systemem dynamicznym
-b. przy nieograniczonym wyjúciu daje nieograniczone wejúcie
-c. przy nieograniczonym wyjúciu daje nieograniczone wejúcie
-d. øadna z powyøszych odpowiedzi
+ÔªøX1000
+Ka≈ºdy system BIBO (bounded input bounded output) stabilny:
+jest systemem dynamicznym
+przy nieograniczonym wyj≈õciu daje nieograniczone wej≈õcie
+przy nieograniczonym wyj≈õciu daje nieograniczone wej≈õcie
+≈ºadna z powy≈ºszych odpowiedzi

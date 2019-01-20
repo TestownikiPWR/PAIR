@@ -1,6 +1,6 @@
-X0001
-47. Odpowiedü skokowa stabilnego systemu liniowego:
-a. maleje do zera
-b. zawsze roúnie lecz nie szybciej niø wyk≥adniczo
-c. nie wiadomo zaleøy to od warunku poczπtkowego
-d. ustala siÍ na sta≥ej wartoúci
+ÔªøX0001
+Odpowied≈∫ skokowa stabilnego systemu liniowego:
+maleje do zera
+zawsze ro≈õnie lecz nie szybciej ni≈º wyk≈Çadniczo
+nie wiadomo zale≈ºy to od warunku poczƒÖtkowego
+ustala siƒô na sta≈Çej warto≈õci

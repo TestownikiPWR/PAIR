@@ -1,0 +1,6 @@
+﻿﻿X1000
+Histogramy brzegowe (lateralne) są stosowane:
+do lokalizowania obiektów na obrazach
+do skalowania obrazów
+do kolorowania obrazów monochromatycznych
+

@@ -1,5 +1,5 @@
-X0100
-44. Czy na podstawie znajomoœci odpowiedzi impulsowej mo¿emy wyznaczyæ model uk³adu?
-a. tylko ca³kuj¹cy
-b. tak 
-c. nie
+ï»¿X0100
+Czy na podstawie znajomoÅ›ci odpowiedzi impulsowej moÅ¼emy wyznaczyÄ‡ model ukÅ‚adu?
+tylko caÅ‚kujÄ…cy
+tak 
+nie

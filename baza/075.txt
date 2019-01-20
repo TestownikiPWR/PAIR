@@ -1,6 +1,6 @@
-X0001
-75. Badaj�c charakterystyki cz�stotliwo�ciowe uk�adu na jego wej�cie podajemy wymuszenie sinusoidalne o:
-a. Sta�ej amplitudzie i sta�ej pulsacji
-b. Zmiennej amplitudzie i sta�ej pulsacji
-c. Zmiennej amplitudzie i zmiennej pulsacji
-d. Sta�ej amplitudzie i zmiennej pulsacji 
+﻿X0001
+Badając charakterystyki częstotliwościowe układu na jego wejście podajemy wymuszenie sinusoidalne o:
+Stałej amplitudzie i stałej pulsacji
+Zmiennej amplitudzie i stałej pulsacji
+Zmiennej amplitudzie i zmiennej pulsacji
+Stałej amplitudzie i zmiennej pulsacji 

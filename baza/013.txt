@@ -1,6 +1,6 @@
-X0010
-13. Uchyb regulacji to:
-a. ró¿nica pomiêdzy wejœciem obiektu a wartoœci¹ zadan¹
-b. ró¿nica pomiêdzy wejœciem a wyjœciem obiektu
-c. ró¿nica pomiêdzy wartoœci¹ zadan¹ a wyjœciem obiektu
-d. ró¿nica pomiêdzy wyjœciem obiektu a jego wartoœci¹ w chwili koñcowej
+ï»¿X0010
+Uchyb regulacji to:
+rÃ³Å¼nica pomiÄ™dzy wejÅ›ciem obiektu a wartoÅ›ciÄ… zadanÄ…
+rÃ³Å¼nica pomiÄ™dzy wejÅ›ciem a wyjÅ›ciem obiektu
+rÃ³Å¼nica pomiÄ™dzy wartoÅ›ciÄ… zadanÄ… a wyjÅ›ciem obiektu
+rÃ³Å¼nica pomiÄ™dzy wyjÅ›ciem obiektu a jego wartoÅ›ciÄ… w chwili koÅ„cowej

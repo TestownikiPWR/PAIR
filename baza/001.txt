@@ -1,6 +1,6 @@
-X0001
-1. Resolwer to urz¹dzenie s³u¿¹ce do:
-a. Dekodowania informacji zapisanej w postaci magnetycznej
-b. Pomiaru przyspieszenia robota
-c. Uzyskania informacji na temat prêdkoœci i kierunku obrotu ko³a
-d. Uzyskania informacji o po³o¿eniu k¹towym osi przegubu
+ï»¿X0001
+Resolwer to urzÄ…dzenie sÅ‚uÅ¼Ä…ce do:
+Dekodowania informacji zapisanej w postaci magnetycznej
+Pomiaru przyspieszenia robota
+Uzyskania informacji na temat prÄ™dkoÅ›ci i kierunku obrotu koÅ‚a
+Uzyskania informacji o poÅ‚oÅ¼eniu kÄ…towym osi przegubu
