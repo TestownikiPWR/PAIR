@@ -1,5 +1,5 @@
-﻿﻿X
+﻿﻿X010
 Sterowanie przegubami robota w otwartej pętli stosuje się
-w robotach
+w cobotach
 robotach prostych
 w robotach złożonych
