@@ -1,4 +1,4 @@
-﻿x0100
+﻿X0100
 Układ stabilny w sensie BIBO:
 jest ukladem typu MISO
 może być pobudzany tylko sygnałami ograniczonymi 

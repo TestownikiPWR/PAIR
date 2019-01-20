@@ -1,4 +1,4 @@
-﻿x1000
+﻿X1000
 Metoda k-najbiższych sąsiadów:
 może być wykorzystywana do klasyfikacji
 rezultaty zawsze nie zależą od liczby k

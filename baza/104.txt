@@ -1,4 +1,4 @@
-﻿x0010
+﻿X0010
 Odpowiedź skokowa obiektu całkującego jest funkcją:
 malejącą
 stałą
