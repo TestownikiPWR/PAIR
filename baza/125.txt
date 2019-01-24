@@ -1,5 +1,0 @@
-﻿﻿X0010
-Resolver to urządzenie służące do:
-pomiaru przyspieszenie robota
-uzyskiwania informacji na temat prędkości i kierunku obrotu koła
-uzyskania informacji o położeniu kątowym przegubu
