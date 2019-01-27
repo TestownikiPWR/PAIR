@@ -1,4 +1,4 @@
-﻿X0001
+﻿﻿X0010
 Rozwiązanie odwrotnego zadania kinematyki dla zadanego robota polega na:
 wyznaczeniu trajektorii współrzędnych wewnętrznych dla znanej trajektorii chwytaka
 wyznaczeniu wektora współrzędnych wewnętrznych dla końcowego punktu pracy
