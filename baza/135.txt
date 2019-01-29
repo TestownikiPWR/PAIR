@@ -1,0 +1,5 @@
+﻿X010
+Histogram brzegowy można używać:
+tylko w kolorze
+w odcieniach szarości
+czarnobiałe

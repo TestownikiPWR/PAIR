@@ -1,0 +1,5 @@
+﻿X010
+Wielowarstwowe (chyba) perceptrony
+nie mają wyjść
+mają wiele warstw ukrytych
+odpowiedź 3
