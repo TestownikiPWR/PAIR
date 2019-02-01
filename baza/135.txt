@@ -1,4 +1,4 @@
-﻿X010
+﻿X001
 Histogram brzegowy można używać:
 tylko w kolorze
 w odcieniach szarości

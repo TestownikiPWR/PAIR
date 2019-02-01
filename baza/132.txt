@@ -1,5 +1,5 @@
-﻿X100
+﻿X010
 Jakiej minimalnej liczby przekaźników elektromagnetycznych musimy użyć, zrealizować iloczyn logiczny dwóch zmiennych:
-jednego
-dwóch
-czterech
+1
+2
+4
