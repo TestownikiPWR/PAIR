@@ -1,4 +1,4 @@
-﻿X1000
+﻿X0001
 Każdy system BIBO (bounded input bounded output) stabilny:
 jest systemem dynamicznym
 przy nieograniczonym wyjściu daje nieograniczone wejście
