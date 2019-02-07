@@ -1,6 +1,0 @@
-﻿﻿X0001
-Każdy system BIBO stabilny
-jest systemem dynamicznym
-przy niograniczyonym wejściu daje nieograniczone wyjście dwa parametry
-przy nieograniczonym wejściu daje ograniczone wejście trzy parametry
-żadna z powyższych odpowiedzi
