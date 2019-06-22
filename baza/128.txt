@@ -1,5 +1,5 @@
-﻿X0100
-Założenia i prototyp pierwszego elektronicznego programowalnego sterownika logicznego(...) //nie da się dalej odczytać, pewnie chodzi o to kto jest odpowiedzialny za jego powstanie czy coś
-Siemens (1972)
-General Motors (1968)
-Shell (1974)
+﻿X100
+Otrzymanie wielomianu interpolacyjnego bez konieczności wykonywania obliczeń umożliwia:
+wielomian interpolacyjny Lagrange'a
+wielomian interpolacyjny Newtona
+macierz Vandermonde'a

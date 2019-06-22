@@ -1,5 +1,3 @@
 ﻿X1000
-Które z wymienionych wielkości należą do parametrów nastawialnych uniwersalnych regulatorów przemysłowych:
-wzmocnienie
-czas zdwojenia
-czas wyprzedzenia
+Jeżeli w URA zostanie zastosowany regulator który poszerzy pasmo przenoszenia to wpłynie to na:
+skrócenie czasu regulacji

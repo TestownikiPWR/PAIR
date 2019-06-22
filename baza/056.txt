@@ -1,5 +1,5 @@
-﻿X0100
-Robot typu antropomorficzny to robot o konfiguracji odcinka regionalnego:
-OOP
+﻿X1000
+Robot typu kartezjański to robot o konfiguracji odcinka regionalnego:
+PPP
 OOO
 OPO

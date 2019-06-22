@@ -1,5 +1,5 @@
-﻿X0100
-Identyfikując człon inercyjny I rzędu wyznaczamy:
-jeden parametr
-dwa parametry 
-trzy parametry
+﻿X1000
+Podczas aproksymacji obiektu regulacji obiektem inercyjnym II rzędu z opóźnieniem musimy wyznaczyć:
+trzy parametry 
+dwa parametry
+cztery parametry

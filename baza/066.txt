@@ -1,5 +1,6 @@
-﻿X0010
-Robot programowany przez tzw. uczenie należy do robotów:
-III generacji
-Prostych
-II generacji
+﻿X0001
+Stacjonarny system dynamiczny:
+Spełnia zasadę superpozycji
+Jest stabilny
+Posiada ujemne sprzężenie zwrotne
+Może być opisywany równaniem różniczkowym 

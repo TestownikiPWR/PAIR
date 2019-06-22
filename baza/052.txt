@@ -1,5 +1,5 @@
-﻿X0010
-Proste zadanie kinematyki polega na:
-Wyznaczeniu trajektorii współrzędnych wewnętrznych robota znając współrzędne trajektorii chwytaka
-Wyznaczeniu wektora trajektorii współrzędnych wewnętrznych robota znając współrzędne trajektorii chwytaka
-Wyznaczeniu trajektorii chwytaka znając wewnętrzne współrzędne trajektorii robota
+﻿X0100
+Rozwiązanie prostego zadania kinematyki dla zadanego robota polega na wyznaczeniu:
+trajektorii punktu pracy
+współrzędnych zewnętrznych punktu pracy dla zadanego wektora współrzędnych naturalnych 
+wyznaczeniu nastaw w przegubach dla danego położenia punktu pracy we współrzędnych zewnętrznych

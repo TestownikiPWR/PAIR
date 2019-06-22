@@ -1,5 +1,6 @@
-﻿﻿X0100
-Do detekcji uszkodzeń
-wykorzystywane są tylko kamery na podczerwień i światło widzialne
-mogą być użyte skanery laserowe
-nie są stosowane kamery pracujące w paśmie ultrafioletowym oraz obrazy rentgenowskie
+﻿X0010
+Odpowiedź skokowa obiektu całkującego jest funkcją:
+malejącą
+stałą
+
+rosnącą

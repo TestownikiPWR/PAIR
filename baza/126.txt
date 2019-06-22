@@ -1,6 +1,6 @@
-﻿X0010
-W sterowaniu odpornym
-nie dokonuje się zmian nastaw regulatorów w trakcie pracy układów
-zawsze wykorzystuje się estymatory odporne
-nie stosuje się estymatorów odpornych
-wejście obiektu jest odporne na zakłócenia
+﻿X100
+Wielowarstwowe perceptrony
+:
+są sieciami jednokierunkowymi
+nie mogą być użyte do klasyfikacji
+nie mogą mieć kilku wejść

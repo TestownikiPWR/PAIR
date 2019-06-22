@@ -1,5 +1,7 @@
-﻿X0100
-Układ stabilny w sensie BIBO:
-jest ukladem typu MISO
-może być pobudzany tylko sygnałami ograniczonymi 
-może być pobudzany dowolnymi sygnałami
+﻿﻿X010
+
+Sterowanie przegubami robota w otwartej pętli stosuje się:
+w cobotach
+
+robotach prostych
+w robotach złożonych

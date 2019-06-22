@@ -1,6 +1,7 @@
-﻿X0100
-Regulator Watta:
-wykorzystuje wzmacniacz operacyjny ua741
-wykorzystywał siłę odśrodkową
-wykorzystywam pole elektormagnetyczne
-posiada transmitancję elementu intercyjnego pierwszego rzędu
+﻿X100
+Sieci neuronowe głębokie:
+
+mogą mieć kilkanaście warstw
+
+nie mają żadnej warstwy ukrytej
+zawsze wymagają wykonania wcześniejszej ekstrakcji cech

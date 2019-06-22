@@ -1,3 +1,6 @@
-﻿X1000
-Jeżeli w URA zostanie zastosowany regulator który poszerzy pasmo przenoszenia to wpłynie to na:
-skrócenie czasu regulacji
+﻿X0001
+Pętla histerezy:
+Występuje w każdym systemie dynamicznym
+Jest elementem regulatorów PID
+Oznacza ujemne sprzężenie zwrotne w układzie automatycznej regulacji
+Opisuje regulator dwustanowy

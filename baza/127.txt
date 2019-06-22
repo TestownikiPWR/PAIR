@@ -1,5 +1,5 @@
-﻿X010
-Który z parametrów przegubu jest zmienny dla obrotowej pary kinematycznej V klasy?
-kąt skrętu członu
-kąt konfiguracji
-odsunięcie członu
+﻿X100
+Robot IRB 1400 to:
+robot złożony monolityczny
+robot złożony modułowy
+robot o zrównoleglonym łańcuchu kinematycznym

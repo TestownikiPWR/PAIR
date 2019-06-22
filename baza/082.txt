@@ -1,6 +1,5 @@
-﻿X0100
-Pomiar temperatury czujnikiem Pt100 w zakresie (0-400)°C wykorzystano przetwornik pomiarowy w standardzie (4-20)mA. Wykonano pomiar tego prądu i uzyskano wynik 12.00 mA stąd wynika, że:
-100 °C
-200 °C
-300 °C
-400 °C
+X0010
+Jeśli robot posiada 1 przegub 4 klasy i 5 przegubów 5 klasy to jego liczba stopni swobody wynosi: // w=6*n-Σ(i*p), gdzie n - liczba ruchomych członów (par) łańcucha, i - klasa, p - liczba połączeń (przegubów) i-tej klasy lub prościej: w=p1*(6-i1)+p2*(6-i2)+...
+Sześć
+Pięć
+Siedem

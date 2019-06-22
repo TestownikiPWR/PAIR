@@ -1,5 +1,5 @@
-﻿X0100
-Jaki element jest wykorzystywany najczęściej do realizacji separacji galwanicznej binarnych WEJŚĆ sterownika PLC:
-transformator
-transoptor
-przekaźnik elektromechaniczny
+﻿﻿X001
+Jeśli wszystkie nastawy regulatora o transmitancji G(s)=Kp(1+1/Ts+Ts) są różne od zera i ograniczone to realizuje on algorytm:
+P
+PI
+PID

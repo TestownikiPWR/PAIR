@@ -1,6 +1,6 @@
-﻿﻿X1000
-Histogramy brzegowe (lateralne) są stosowane:
-do lokalizowania obiektów na obrazach
-do skalowania obrazów
-do kolorowania obrazów monochromatycznych
+﻿X010
+Układ stabilny w sensie BIBO:
 
+jest ukladem typu MISO
+może być pobudzany tylko sygnałami ograniczonymi
+może być pobudzany dowolnymi sygnałami

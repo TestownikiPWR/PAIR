@@ -1,5 +1,5 @@
-﻿X1000
-Robot typu Scara to robot o konfiguracji odcinka regionalnego:
-OOP
-OOO
-OPO
+﻿X0010
+Robot programowany przez tzw. uczenie należy do robotów:
+III generacji
+Prostych
+II generacji

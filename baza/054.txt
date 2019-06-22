@@ -1,5 +1,5 @@
-﻿﻿X0010
-Rozwiązanie odwrotnego zadania kinematyki dla zadanego robota polega na:
-wyznaczeniu trajektorii współrzędnych wewnętrznych dla znanej trajektorii chwytaka
-wyznaczeniu wektora współrzędnych wewnętrznych dla końcowego punktu pracy
-wyznaczeniu nastaw w przegubach dla danego położenia punktu pracy we współrzędnych zewnętrznych
+﻿X0100
+Robot sferyczny ma regionalny odcinek łańcucha kinematycznego notowany jako:
+OPP
+OOP
+POP

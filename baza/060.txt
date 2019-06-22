@@ -1,5 +1,6 @@
-﻿X0010
-Robot cylindryczny jest robotem o konfiguracji:
-POO
-OOP
-OPP
+﻿X0100
+Robot IRB1400 to robot:
+Monolityczny prosty
+Monolityczny złożony
+Modułowy dymensyjny
+Modułowy prosty

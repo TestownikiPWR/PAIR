@@ -1,6 +1,4 @@
-﻿X0001
-Stacjonarny system dynamiczny:
-Spełnia zasadę superpozycji
-Jest stabilny
-Posiada ujemne sprzężenie zwrotne
-Może być opisywany równaniem różniczkowym 
+﻿X0100
+Charakterystyki częstotliwościowe układu dynamicznego [pokazują/] pozwalają bezpośrednio określić:
+wzmocnienie i przesunięcie fazowe w funkcji częstotliwości
+zależność przesunięcia fazowego i wzmocnienia od pulsacji

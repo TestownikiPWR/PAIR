@@ -1,6 +1,6 @@
 ﻿X0010
-Enkoder magnetyczny to urządzenie służące do:
+Enkoder to urządzenie służące do:
 Dekodowania informacji zapisanej w postaci magnetycznej
 Pomiaru przyspieszenia robota
-Uzyskiwania informacji na temat prędkości i kierunku obrotu koła
+Uzyskiwania informacji na temat położenia kątowego przegubu obrotowego
 Chwytania elementów (mocuje się je na końcu efektora manipulatora)

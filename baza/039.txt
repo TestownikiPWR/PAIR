@@ -1,5 +1,5 @@
 ﻿X1000
-Odpowiedź skokowa obiektu inercyjnego I rzędu jest funkcją:
-rosnącą
-niemalejącą
+Odpowiedź skokowa obiektu różniczkującego z inercją jest funkcją:
 malejącą
+stałą
+rosnącą

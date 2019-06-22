@@ -1,5 +1,6 @@
-﻿X0100
-Sieci neuronowe:
-nie mogą być użyte do sterowania nieliniowych obiektów dynamicznych
-mogą być wykorzystywane do predykcji szeregów czasowych 
-są zawsze rekurencyjne
+﻿X0010
+W sterowaniu odpornym:
+nie dokonuje się zmian nastaw regulatorów w trakcie pracy układów
+zawsze wykorzystuje się estymatory odporne
+nie stosuje się estymatorów odpornych
+wejście obiektu jest odporne na zakłócenia

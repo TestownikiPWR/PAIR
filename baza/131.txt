@@ -1,5 +1,5 @@
-﻿X0010
-Jeśli wszystkie nastawy regulatora o transmitancji G(s)=(Kp+Ki/Ts+KdTs) są różne od zera i ograniczone to realizuje on algorytm:
-P
-PI
-PID
+﻿X010
+obiekt -> ... -> opis teoretyczny
+white box
+black box
+grey box

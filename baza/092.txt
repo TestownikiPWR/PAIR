@@ -1,5 +1,7 @@
-﻿X0100
-Robot o dwóch modułach klasy IV i dwóch klasy V ma ile stopni swobody? // w=p1*(6-i1)+p2*(6-i2)+..., p - liczba modułów, i - klasa
-8
-6
-4
+﻿﻿X010
+Do detekcji uszkodzeń
+wykorzystywane są tylko kamery na podczerwień i światło widzialne
+
+mogą być użyte skanery laserowe
+
+nie są stosowane kamery pracujące w paśmie ultrafioletowym oraz obrazy rentgenowskie

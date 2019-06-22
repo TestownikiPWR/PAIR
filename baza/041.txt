@@ -1,5 +1,5 @@
-﻿X1000
-Odpowiedź skokowa obiektu różniczkującego jest funkcją:
-malejącą
-stałą 
-rosnącą
+﻿X0100
+Odpowiedź skokowa członu całkującego ma wartość:
+Stałą
+Rosnącą
+Malejącą

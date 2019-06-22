@@ -1,4 +1,5 @@
-﻿X1000
-Układ ma transmitancję G(s)=k/((1+sT1)(1-sT2)s. Układ ten jest:
-niestabilny
-stabilny
+﻿X0100
+Jeśli robot IRB 1400 wykonuje zadania przemieszczania w jednej płaszczyźnie (do opisania trajektorii chwytaka potrzeba m=4 współrzędnych zewnętrznych) to: // w - stopnie swobody, w IRB 1400 = 6, redundancja = w - m 
+jego stopień redundancji dla tej klasy trajektorii wynosi 4
+jego stopień redundancji dla tej klasy trajektorii wynosi 2
+jego stopień redundancji dla tej klasy trajektorii wynosi 1

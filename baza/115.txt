@@ -1,5 +1,7 @@
-﻿﻿X010
-Sterowanie przegubami robota w otwartej pętli stosuje się
-w cobotach
-robotach prostych
-w robotach złożonych
+﻿X010
+
+Wielowarstwowe perceptrony
+:
+nie mają żadnej warstwy ukrytej
+mają co najmniej jedną warstwę ukrytą
+mają co najmniej kilka warstw ukrytych

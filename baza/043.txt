@@ -1,5 +1,5 @@
-﻿X0010
-Odpowiedzią obiektu całkującego jest funkcją:
-Malejącą
-Stałą
-Rosnącą
+﻿X0100
+Czy na podstawie znajomości odpowiedzi impulsowej możemy wyznaczyć model układu?
+tylko całkujący
+tak 
+nie

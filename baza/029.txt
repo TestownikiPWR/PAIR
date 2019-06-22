@@ -1,5 +1,6 @@
-﻿X0010
-Ile parametrów nastawimy w regulatorze typu PID:
-jeden
-zależy od konkretnego regulatora PID
-trzy
+﻿X0100
+W regulatorze typu PID:
+Wszystkie człony połączone są szeregowo
+Wszystkie człony połączone są równolegle
+Człony P i I połączone są szeregowo a D równolegle
+Człony P i D połączone są równolegle a I szeregowo

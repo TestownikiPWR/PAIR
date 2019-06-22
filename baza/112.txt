@@ -1,5 +1,5 @@
-﻿X1000
-Sieci neuronowe głębokie:
-mogą mieć kilkanaście warstw
-nie mają żadnej warstwy ukrytej
-zawsze wymagają wykonania wcześniejszej ekstrakcji cech
+﻿X001
+Jeśli wszystkie nastawy regulatora o transmitancji G(s)=(Kp+Ki/Ts+KdTs) są różne od zera i ograniczone to realizuje on algorytm:
+P
+PI
+PID

@@ -1,5 +1,7 @@
-﻿﻿X001
-Jeśli wszystkie nastawy regulatora o transmitancji G(s)=Kp(1+1/Ts+Ts) są różne od zera i ograniczone to realizuje on algorytm:
-P
-PI
-PID
+﻿X0001
+Który z parametrów przegubu jest zmienny dla translacyjnej pary kinematycznej V klasy?
+kąt skrętu członu
+
+długość członu
+kąt konfiguracji
+odsunięcie członu

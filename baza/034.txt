@@ -1,5 +1,4 @@
-﻿X0010
-Człon oscylacyjny jest członem:
-zerowego rzędu
-pierwszego rzędu
-drugiego rzędu
+﻿X1000
+Spośród podstawowych członów dynamicznych zjawisko rezonansu może zachodzić w:
+tylko w członie oscylacyjnym.
+tylko w członie człona.

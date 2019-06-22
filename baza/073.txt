@@ -1,6 +1,6 @@
-﻿X0001
-Każdy system BIBO (bounded input bounded output) stabilny:
-jest systemem dynamicznym
-przy nieograniczonym wyjściu daje nieograniczone wejście
-przy nieograniczonym wyjściu daje nieograniczone wejście
-żadna z powyższych odpowiedzi
+﻿X1000
+Na czym polega korzyść z zastosowania transformaty Laplace'a?
+przekształca splot w iloczyn
+pozwala na analizę obiektów nieliniowych
+pozwala na analizę obiektów dyskretnych
+sprowadza równania zespolone do rzeczywistych

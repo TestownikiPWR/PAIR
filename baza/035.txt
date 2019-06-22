@@ -1,4 +1,4 @@
 ﻿X1000
-Spośród podstawowych członów dynamicznych zjawisko rezonansu może zachodzić w:
-tylko w członie oscylacyjnym.
-tylko w członie człona.
+Człon inercyjny I-go rzędu to:
+model matematyczny układów wspólny dla specyficznych układów o dowolnej naturze fizycznej
+inna nazwa czwórnika elektrycznego

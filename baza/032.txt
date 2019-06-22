@@ -1,5 +1,5 @@
-﻿X0010
-Czy sterując wejściem można zdestabilizować układ zamknięty z członem PID?
-nie
-zależy
-tak
+﻿X0100
+Człon proporcjonalny jest członem:
+pierwszego rzędu
+zerowego rzędu
+drugiego rzędu

@@ -1,5 +1,5 @@
-﻿X1000
-Robot IRB 1400 jest robotem o konfiguracji:
-antropomorficznej
-sferycznej
-kartezjańskiej
+﻿X0100
+Każdy obiekt liniowy:
+jest obiektem z czasem ciągłym
+spełnia zasadę superpozycji
+jest stabilny

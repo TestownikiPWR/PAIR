@@ -1,3 +1,6 @@
-﻿X1000
-W układzie dynamicznym z czasem ciągłym wyjście jest splotem:
-wejścia i charakterystyki impulsowej
+﻿X0001
+Badając charakterystyki częstotliwościowe układu na jego wejście podajemy wymuszenie sinusoidalne o:
+Stałej amplitudzie i stałej pulsacji
+Zmiennej amplitudzie i stałej pulsacji
+Zmiennej amplitudzie i zmiennej pulsacji
+Stałej amplitudzie i zmiennej pulsacji 

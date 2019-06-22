@@ -1,4 +1,5 @@
-﻿X1000
-Robot YuMi:
-robot złożony monolityczny
-robot złożony modułowy
+﻿X010
+Przez 3 węzły interpolacji przechodzi wielomian stopnia:
+1-ego
+2-ego
+3-ego

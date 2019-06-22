@@ -1,5 +1,5 @@
 ﻿X0100
-Czy na podstawie znajomości odpowiedzi impulsowej możemy wyznaczyć model układu?
-tylko całkujący
-tak 
+Czy można wyznaczyć model uproszczony obiektu na podstawie jego wykresu odpowiedzi skokowej?
 nie
+tak
+tylko dla obiektu całkującego
