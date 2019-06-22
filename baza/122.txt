@@ -1,5 +1,0 @@
-﻿X001
-Optymalizowana funkcja celu jako wynik zwraca:
-wektor wartości
-macierz stanu
-jedną liczbę rzeczywistą

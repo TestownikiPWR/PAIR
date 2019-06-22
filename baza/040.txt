@@ -1,5 +1,0 @@
-﻿X1000
-Odpowiedź skokowa obiektu różniczkującego jest funkcją:
-malejącą
-stałą 
-rosnącą

@@ -1,5 +1,0 @@
-﻿X1000
-Stabilność liniowego układu dynamicznego oznacza:
-ograniczoną odpowiedź na ograniczone wejście
-stałą odpowiedź na ograniczone wejście
-zerową odpowiedź na ograniczone wejście

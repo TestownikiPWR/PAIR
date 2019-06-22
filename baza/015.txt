@@ -1,5 +1,0 @@
-﻿X1000
-W układzie automatycznej regulacji wejściem obiektu jest:
-wyjście regulatora
-uchyb regulacji
-wartość zadana jego wyjścia

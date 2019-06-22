@@ -1,5 +1,0 @@
-﻿X0010
-Odpowiedzią obiektu całkującego jest funkcją:
-Malejącą
-Stałą
-Rosnącą

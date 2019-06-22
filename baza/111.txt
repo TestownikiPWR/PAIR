@@ -1,6 +1,0 @@
-﻿X100
-Klasyczny regulator PI jest:
-Liniowy
-Nieliniowy
-
-To zalezy

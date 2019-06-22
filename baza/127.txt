@@ -1,5 +1,0 @@
-﻿X100
-Robot IRB 1400 to:
-robot złożony monolityczny
-robot złożony modułowy
-robot o zrównoleglonym łańcuchu kinematycznym

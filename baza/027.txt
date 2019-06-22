@@ -1,5 +1,0 @@
-﻿X1000
-Czy kontroler PID zawiera człon całkujący?
-Tak
-Czasami
-Nie

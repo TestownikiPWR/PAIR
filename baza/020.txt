@@ -1,3 +1,0 @@
-﻿X1000
-Kryterium stabilności Nyquista opiera się na analizie:
-charakterystyki amplitudowo - fazowej układu otwartego.

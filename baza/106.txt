@@ -1,8 +1,0 @@
-﻿﻿X010
-Uchyb regulacji jest sygnałem
-:
-sterującym
-
-wejściowym regulatora
-
-zawsze nieujemnym

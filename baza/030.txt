@@ -1,3 +1,0 @@
-﻿X1000
-Algorytm regulacji PD należy stosować gdy:
-przebiegi sygnałów w układzie są szybkie - o dużej częstotliwości

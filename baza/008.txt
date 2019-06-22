@@ -1,5 +1,0 @@
-﻿X0100
-Wczesne sterowniki PLC nie realizowały:
-Zależności czasowych
-Przetwarzania sygnałów analogowych
-Przetwarzania sygnałów cyfrowych
