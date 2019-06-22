@@ -5,4 +5,3 @@ horyzontu
 nie stosuje się modelu obiektu
 wykorzystuje się jedynie regulatory typu PI
 wykorzystuje się pojęcie zwane horyzontem predykcji
-
