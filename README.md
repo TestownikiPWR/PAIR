@@ -1,9 +1,9 @@
-# PAIR
+ï»¿# PAIR
 Podstawy automatyki i robotyki
 
 **To jest sama baza i nie zawiera programu .exe z testownikiem**
 
-Nale¿y go pobraæ na przyk³ad st¹d
+NaleÅ¼y go pobraÄ‡ na przykÅ‚ad stÄ…d
 [Link](https://github.com/kumalg/testownik-electron/releases)
 
 ## Link do pobrania bazy
