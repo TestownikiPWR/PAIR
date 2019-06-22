@@ -1,6 +1,5 @@
-﻿X0010
+X001
 Odpowiedź skokowa obiektu całkującego jest funkcją:
 malejącą
 stałą
-
 rosnącą
