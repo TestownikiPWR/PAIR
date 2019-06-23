@@ -1,5 +1,4 @@
 X010
-
 Sterowanie przegubami robota w otwartej pętli stosuje się:
 w cobotach
 robotach prostych
